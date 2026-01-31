@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="fire-installations/18.0.0 android-min-sdk/24 device-brand/Redmi fire-auth/23.2.0 device-name/lapis fire-android/35 device-model/lapis fire-iid/21.1.0 android-installer/com.android.vending fire-core/21.0.0 fire-cls-ndk/19.4.2 fire-core-ktx/21.0.0 fire-sessions/2.1.0 fire-fcm/24.1.1 fire-analytics/22.4.0 android-platform/ kotlin/1.9.22 android-target-sdk/35 fire-cls/19.4.2 fire-transport/19.0.0 fire-cpp-stl/libcpp fire-cpp-buildsrc/github_action_built fire-cpp-arch/arm64 fire-unity-ver/2022.3.62f2 fire-unity/12.10.1 fire-cpp/12.8.0 fire-cpp-os/android fire-unity-buildsrc/custom_built">
+        <string>2026-01-18</string>
+    </set>
+    <long name="fire-count" value="7" />
+    <string name="last-used-date">2026-01-19</string>
+    <long name="fire-global" value="1768474926133" />
+    <set name="fire-installations/18.0.0 android-min-sdk/24 device-brand/Redmi fire-auth/23.2.0 device-name/lapis fire-android/35 device-model/lapis fire-iid/21.1.0 android-installer/com.android.vending fire-core/21.0.0 fire-cls-ndk/19.4.2 fire-core-ktx/21.0.0 fire-sessions/2.1.0 fire-fcm/24.1.1 fire-analytics/22.4.0 android-platform/ kotlin/1.9.22 android-target-sdk/35 fire-cls/19.4.2 fire-transport/19.0.0">
+        <string>2026-01-19</string>
+    </set>
+    <set name="fire-installations/18.0.0 android-min-sdk/24 device-brand/Redmi fire-auth/23.2.0 fire-android/35 device-name/lapis device-model/lapis android-installer/com.android.vending fire-iid/21.1.0 fire-core/21.0.0 fire-cls-ndk/19.4.2 fire-core-ktx/21.0.0 fire-fcm/24.1.1 fire-sessions/2.1.0 fire-analytics/22.4.0 android-platform/ kotlin/1.9.22 android-target-sdk/35 fire-transport/19.0.0 fire-cls/19.4.2 fire-cpp-stl/libcpp fire-cpp-buildsrc/github_action_built fire-cpp-arch/arm64 fire-unity-ver/2022.3.62f2 fire-unity/12.10.1 fire-cpp/12.8.0 fire-cpp-os/android fire-unity-buildsrc/custom_built">
+        <string>2026-01-14</string>
+        <string>2026-01-17</string>
+        <string>2026-01-16</string>
+        <string>2026-01-13</string>
+    </set>
+</map>
